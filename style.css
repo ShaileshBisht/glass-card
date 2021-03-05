@@ -98,6 +98,7 @@ body::after {
   font-weight: 300;
   margin: 10px 0;
   letter-spacing: 2px;
+  color: yellow;
 }
 
 .container .card .content a {
