@@ -52,3 +52,9 @@ section::after {
   height: 400px;
   margin: 20px 40px;
 }
+
+.container .card .imgBx {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
