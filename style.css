@@ -36,3 +36,12 @@ section::after {
   background: #47aafa;
   clip-path: circle(35% at 0% 100%);
 }
+
+.container {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
